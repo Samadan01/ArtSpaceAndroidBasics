@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ArtSpaceApp</string>
+    <string name="next_slide">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="the_lemon_tree">Lemon tree</string>
+    <string name="artwork_title_1">The Beautiful Lemon Tree</string>
+    <string name="artwork_artist_year_1">Lemonade Bonucci (2012)</string>
+
+    <string name="the_lemon">Lemon</string>
+    <string name="artwork_title_2">Lemonade Lemon Cutties Cut</string>
+    <string name ="artwork_artist_year_2">Lesthon Ariel (2010)</string>
+
+    <string name="the_lemon_drink">Lemon Drink</string>
+    <string name="artwork_title_3">The Super Fantastic Lemon Drink</string>
+    <string name="artwork_artist_year_3">Lesotho Miller (2020)</string>
+
+    <string name="the_lemon_empty">Empty Bottle</string>
+    <string name="artwork_title_4">The Empty Bottle which was initially filled with Lemon</string>
+    <string name="artwork_artist_year_4">Lesitin Boris (2021)</string>
+
+</resources>
